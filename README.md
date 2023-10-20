@@ -1,6 +1,6 @@
 # sunflower
 
-<img src = "fanGif.gif">
+<img src = "imgs/fanGif.gif">
 
 온도가 높은 곳으로 바람을 보내주는 탁상용 선풍기.
 
