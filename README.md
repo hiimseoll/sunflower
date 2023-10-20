@@ -1,5 +1,7 @@
 # sunflower
 
+![image](https://github.com/hiimseoll/sunflower/assets/74600938/89256294-932e-418a-b4da-475c503d0007)
+
 온도가 높은 곳으로 바람을 보내주는 탁상용 선풍기.
 
 
