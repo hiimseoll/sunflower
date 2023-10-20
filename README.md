@@ -18,6 +18,6 @@
 
 
 
-2023/10/20:외관(크기) 작업
+2023/10/20:외관(크기) 작업 / 기초 알고리즘 작업(code/trackAlgo.c)
 
 ![sunflower_3D_example01](https://github.com/hiimseoll/sunflower/assets/74600938/b5a1115f-fad9-48d8-baf5-08168f8ec853)
