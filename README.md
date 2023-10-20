@@ -1,4 +1,4 @@
-# sunflower
+# sunflower 해바라기
 
 <img src = "imgs/fanGif.gif">
 
